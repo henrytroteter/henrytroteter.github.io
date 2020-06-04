@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://henrytroteter.github.io/sitemap.xml.gz
